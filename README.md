@@ -4,7 +4,7 @@ This is the code for 2D-to-3D style transfer in the paper [Neural 3D Mesh Render
 
 Related repositories:
 * [Neural Renderer](https://github.com/hiroharu-kato/neural_renderer)
-    * single-image 3D mesh reconstruction
+    * Single-image 3D mesh reconstruction
     * 2D-to-3D style transfer (this repository)
     * [3D DeepDream](https://github.com/hiroharu-kato/deep_dream_3d)
 
@@ -23,8 +23,9 @@ python setup.py install --user
 bash ./examples/run.sh
 ```
 
-![](https://raw.githubusercontent.com/hiroharu-kato/style_transfer_3d/master/examples/results/teapot_gris.gif)
-![](https://raw.githubusercontent.com/hiroharu-kato/style_transfer_3d/master/examples/results/bunny_munch.gif)
+<img src="https://raw.githubusercontent.com/hiroharu-kato/style_transfer_3d/master/examples/data/styles/gris1.jpg" width="30%" height="30%">
+<img src="https://raw.githubusercontent.com/hiroharu-kato/style_transfer_3d/master/examples/data/results/teapot.gif" width="30%" height="30%">
+<img src="https://raw.githubusercontent.com/hiroharu-kato/style_transfer_3d/master/examples/data/results/teapot_gris.gif" width="30%" height="30%">
 
 
 

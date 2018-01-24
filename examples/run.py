@@ -45,7 +45,7 @@ def run():
     parser.add_argument('-ab1', '--adam_beta1', type=float, default=0.9)
     parser.add_argument('-ab2', '--adam_beta2', type=float, default=0.999)
     parser.add_argument('-bs', '--batch_size', type=int, default=4)
-    parser.add_argument('-ni', '--num_iteration', type=int, default=5000)
+    parser.add_argument('-ni', '--num_iteration', type=int, default=100)
     parser.add_argument('-g', '--gpu', type=int, default=0)
     args = parser.parse_args()
 
