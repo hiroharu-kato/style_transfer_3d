@@ -17,9 +17,8 @@ python setup.py install --user
 # or, sudo python setup.py install
 ```
 
-## Run example
+## Example
 ```
-
 bash ./examples/run.sh
 ```
 
