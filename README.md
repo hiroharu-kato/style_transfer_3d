@@ -23,11 +23,17 @@ python setup.py install --user
 bash ./examples/run.sh
 ```
 
-<img src="https://raw.githubusercontent.com/hiroharu-kato/style_transfer_3d/master/examples/data/styles/gris1.jpg" width="30%" height="30%">
-<img src="https://raw.githubusercontent.com/hiroharu-kato/style_transfer_3d/master/examples/data/results/teapot.gif" width="30%" height="30%">
-<img src="https://raw.githubusercontent.com/hiroharu-kato/style_transfer_3d/master/examples/data/results/teapot_gris.gif" width="30%" height="30%">
+<div>
+   <img src="https://raw.githubusercontent.com/hiroharu-kato/style_transfer_3d/master/examples/data/styles/gris1.jpg" width="30%" height="30%">
+   <img src="https://raw.githubusercontent.com/hiroharu-kato/style_transfer_3d/master/examples/data/results/teapot.gif" width="30%" height="30%">
+   <img src="https://raw.githubusercontent.com/hiroharu-kato/style_transfer_3d/master/examples/data/results/teapot_gris.gif" width="30%" height="30%">
+</div>
 
-
+<div>
+   <img src="https://raw.githubusercontent.com/hiroharu-kato/style_transfer_3d/master/examples/data/styles/munch1.jpg" width="30%" height="30%">
+   <img src="https://raw.githubusercontent.com/hiroharu-kato/style_transfer_3d/master/examples/data/results/bunny.gif" width="30%" height="30%">
+   <img src="https://raw.githubusercontent.com/hiroharu-kato/style_transfer_3d/master/examples/data/results/bunny_munch.gif" width="30%" height="30%">
+</div>
 
 ## Citation
 
